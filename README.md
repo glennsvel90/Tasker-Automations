@@ -1,5 +1,5 @@
 # Tasker-Automations
-Automate Many Android Functions For Seamless Productivity and Efficiency
+Make Life Easier. Automate Many Android Functions For Seamless Productivity and Efficiency
 
 
 
